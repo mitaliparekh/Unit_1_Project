@@ -1,0 +1,138 @@
+<body>
+    <html>
+    <style>
+        body {
+            background-color: rgb(225, 230, 236);
+            padding: 10px;
+            background-color: lightgray;
+        }
+
+        text {
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        h1 {
+            text-align: center;
+            color: black;
+            text-transform: uppercase;
+            font-size: 50px;
+        }
+
+        h2,
+        p {
+            color: black;
+        }
+
+        p {
+            font-size: 18px;
+        }
+    </style>
+
+    <BODY TEXT="#F0FFF0" style="font-family:Courier New">
+        <div class="key_trends">
+            <style>
+                h2,
+                ul,
+                p {
+                    font-family: "Courier New";
+                    color: black;
+                    text-align: center;
+                }
+            </style>
+            <h1>Key Terms</h1>
+            <img src="computer.jpg" alt="A picture of a cell phone with applications"
+                style="width: 200px; border-radius:5px; display: block; margin-left: auto; margin-right: auto;">
+            <br>
+            <br>
+            <h2>In this section, we will discuss 20 key terms.</h2>
+            <br>
+
+            <ul>
+                <h2>Compute:</h2>
+                <p>is a device that intakes coded programs and outputs and stores information based on the input (Morley,
+                    2014).</p>
+
+                <h2>Boot:</h2>
+                <p>the method used to start a computer (Morley, 2014).</p>
+
+                <h2>Tablet Computer:</h2>
+                <p>is a mini computer that is less powerful than a regular desktop computer, but one can use it to access
+                    the web and mobile applications (Morley, 2014).</p>
+                    
+                <h2>IP Address:</h2>
+                <p>is a unique set of numbers separated by a period that identifies a computer. Each computer will have
+                    its own individual IP address (Morley, 2014).</p>
+
+                <h2>Processing:</h2>
+                <p>is the process of cleaning data and making it reader-friendly (Morley, 2014).</p>
+
+                <h2>Application Software:</h2>
+                <p>different applications allow users to perform different tasks such as playing games, writing tools,
+                    etc. (Morley, 2014). </p>
+
+                <h2>Software:</h2>
+                <p>is developed for specific tasks and loaded into an operating system for users. For example, MS Office
+                    Word is a writing tool users can use to draft memos, write papers, etc. (Morley, 2014). </p>
+
+                <h2>Mainframe Computer:</h2>
+                <p>is used mostly by businesses to hold large data and users who have access to the server can access the data (Morley, 2014).</p>
+            
+                <h2>Supercomputer:</h2>
+                <p>is a super-fast computer that is used to support certain applications (Morley, 2014).</p>
+
+                <h2>Storage:</h2>
+                <p>is a device or a cloud-based service one uses to store data (Morley, 2014).</p>
+
+                <h2>Internet:</h2>
+                <p>is a wide network that people use globally to access information, communication, etc. (Morley, 2014).
+                </p>
+
+                <h2>Internet Service Provider (ISP):</h2>
+                <p>is a company that provides internet service to businesses and individual households for a cost (Morley,
+                    2014).</p>
+
+                <h2>Internet Address:</h2>
+                <p>is a unique address that helps recognize a computer on the web (Morley, 2014).</p>
+
+                <h2>Domain Name:</h2>
+                <p>is an address that a company and/or individual uses to create a website (Morley, 2014).</p>
+
+                <h2>Uniform Resource Locator (URL):</h2>
+                <p>is a hyperlink that users can use to access the website. It contains the domain name (Morley, 2014).
+                </p>
+
+                <h2>Website:</h2>
+                <p>consists of many web pages, domain name, and URLs (Morley, 2014).</p>
+
+                <h2>Web Page:</h2>
+                <p>is a page that provides users with information and many times it connects to other pages (Morley,
+                    2014).</p>
+
+                <h2>E-mail Address:</h2>
+                <p>is an electronic address where a user chooses their username. E-mail addresses are '@' a domain name
+                    (Morley, 2014).
+                </p>
+            </ul>
+            <Div class="button">
+                <button type="button"
+                    style="background: gray; color: whitesmoke; width: 150px; height: auto; padding: auto; border-radius: 5px; cursor: pointer; display: block; margin-left:auto; margin-right:auto; "><a
+                        href="home.html" style="text-decoration: none; color: whitesmoke;">Home</a></button>
+                <br>
+                <button type="button"
+                    style="background: gray; color: whitesmoke; width: 150px; height: auto; padding: auto; border-radius: 5px; cursor:pointer; display: block; margin-left:auto; margin-right:auto; "><a
+                        href="Page2.html" style="text-decoration: none; color: whitesmoke;">Page 2</a></button>
+                <br>
+                <button type="button"
+                    style="background: gray; color: whitesmoke; width: 150px; height: auto; padding: auto; border-radius: 5px; cursor:pointer; display: block; margin-left:auto; margin-right:auto; "><a
+                        href="Page3.html" style="text-decoration: none; color: whitesmoke;">Page 3</a></button>
+                <br>
+                <button type="button"
+                    style="background: gray; color: whitesmoke; width: 150px; height: auto; padding: auto; border-radius: 5px; cursor:pointer; display: block; margin-left:auto; margin-right:auto; "><a
+                        href="referencelist.html" style="text-decoration: none; color: whitesmoke;">Reference
+                        List</a></button>
+            </Div>
+            <p class="reference" style="font-size: x-small;text-align: left;">Reference list at the end</p>
+        </div>
+    </body>
+
+    </html>
